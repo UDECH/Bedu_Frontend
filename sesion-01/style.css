@@ -1,0 +1,27 @@
+body {
+    background-color: #fffbf7;
+}
+
+.color1 {
+    background-color: #46484c;
+    color: #fff;
+}
+
+.color2 {
+    background-color: #8b8b8bcc;
+    color: #fff;
+}
+
+.color3 {
+    background-color: #fff;
+    color: black;
+}
+
+button {
+    color: white;
+    background-color: #025157;
+}
+
+#logo{
+    height: 45px;
+}

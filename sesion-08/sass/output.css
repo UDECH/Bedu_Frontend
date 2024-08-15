@@ -1,0 +1,34 @@
+/* -------------------------------------------------------------------------- */
+/*                                  Variables                                 */
+/* -------------------------------------------------------------------------- */
+.contenedor {
+  height: 50px;
+  width: 100%;
+  background-color: #707070;
+  display: flex;
+}
+.contenedor ul {
+  list-style: none;
+  display: flex;
+}
+.contenedor ul li {
+  margin-left: 10px;
+}
+.contenedor ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+.titulo {
+  color: #24a0ed;
+}
+
+.boton {
+  background-color: #24a0ed;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+  height: px2rem(96);
+  color: black;
+}
+
+/*# sourceMappingURL=output.css.map */
